@@ -1,3 +1,6 @@
+### NOTA: Lamentablemente, los archivos IIIF de cada libro son privados, por lo que esta solución no se puede utilizar. Sin embargo, se pueden bajar imágenes individuales manualmente.
+### NOTE: Unfortunately, IIIF files of each book are private, so this solution cannot be used. However, you can still download individual images manually.
+
 # Antenati Book Downloader (es)
 La finalidad de este programa es descargar libros de actas de la página web Antenati. Todas las páginas del libro serán almacenadas en una nueva carpeta, en la mayor resolución posible. De esta manera, podrás buscar actas más rápido usando la aplicación de fotos de tu PC, en vez de el visualizador de Antenati, que es lento e incómodo.
 
